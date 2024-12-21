@@ -13,7 +13,7 @@ A cryptography tool which implements a new complex mixed substitution cipher dub
 
 ## About
 
-
+As the name suggests, Gaius Julius Caesar was the late-father to Julius Caesar, who laid the foundation of cryptography in its earliest form.
 
 ## Why Use Gaius?
 
