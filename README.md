@@ -61,7 +61,7 @@ This is the command line(CLI) interface for Gaius. Its meant to be easy, & minim
 
 ## Notes
 
-**Gaius** does perform basic password validation for enhanced protection, & to ensure users use good password/keyword practices. This tool can also be useful in conjunction with payloads that use base64, or in CTF's.
+**Gaius** does perform basic password validation for enhanced protection, & to ensure users use good password/keyword practices. This tool can also be useful in conjunction with payloads that use base64, or in CTF's. If you dont feel comfortable using the provided Linux binary release, you can also generate it from the source code provided with GCC compiler, or other compiler of your choice.
 
 ## Contributors
 <a name="Contributors"></a>
