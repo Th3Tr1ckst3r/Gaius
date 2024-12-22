@@ -35,7 +35,7 @@ The **"Gaius cipher"** offers a unique balance between simplicity, and modern se
 
 This is the command line(CLI) interface for Gaius. Its meant to be easy, & minimal.
 
-![Gaius_CLI](https://i.imgur.com/YNGsTCw.png)
+![Gaius_CLI](https://i.imgur.com/JX4oa5j.png)
 
 ## Installation Warnings
 
