@@ -37,7 +37,7 @@ This is the command line(CLI) interface for Gaius. Its meant to be easy, & minim
 
 ![Gaius_CLI](https://i.imgur.com/JX4oa5j.png)
 
-## Installation Warnings
+## Installation Notices
 
 - **Cipher vs. Encoding**: **Gaius** is a cipher, meaning it obfuscates data to secure its content. It is not encryption in the modern sense; encoding focuses on data representation, while ciphers focus on securing the message's meaning.
 
@@ -59,8 +59,12 @@ This is the command line(CLI) interface for Gaius. Its meant to be easy, & minim
 
 - **Complement, Don’t Replace**: Use **Gaius** as a complementary layer to modern encryption techniques rather than relying on it as the sole means of securing data.
 
-<a name="Contributors"></a>
+## Notes
+
+**Gaius** does perform basic password validation for enhanced protection, & to ensure users use good password/keyword practices. This tool can also be useful in conjunction with payloads that use base64, or in CTF's.
+
 ## Contributors
+<a name="Contributors"></a>
 
 <p align="center">
     <a href="https://github.com/Th3Tr1ckst3r"><img src="https://avatars.githubusercontent.com/u/21149460?v=4" width=75 height=75></a>
