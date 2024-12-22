@@ -9,7 +9,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/Th3Tr1ckst3r/Gaius)](https://github.com/Th3Tr1ckst3r/Gaius/network/members)
 [![GitHub Issues](https://img.shields.io/github/issues/Th3Tr1ckst3r/Gaius)](https://github.com/Th3Tr1ckst3r/Gaius/issues)
 
-A cryptography tool which implements a new complex mixed substitution cipher dubbed 'Gaius Cipher' into binary/plaintext data structures. 
+A cryptography tool which implements a new complex mixed substitution cipher dubbed **'Gaius Cipher'** into binary/plaintext data structures. 
 
 ## About
 
