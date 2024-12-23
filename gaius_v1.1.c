@@ -511,7 +511,7 @@ int main(int argc, char *argv[]) {
     // Validate argument count
     if (argc < 5) {
         fprintf(stderr,
-                "Gaius V1.0 - A cryptography tool which implements a new complex mixed substitution cipher dubbed 'Gaius Cipher' into binary/plaintext data structures.\n\n\n"
+                "Gaius V1.1 - A cryptography tool which implements a new complex mixed substitution cipher dubbed 'Gaius Cipher' into binary/plaintext data structures.\n\n\n"
                 "Usage: gaius <encipher|decipher> <password|keyword> <input_file> <output_file> [-n64, -v, -chunk <size>]\n\n"
                 "Optional Usage: \n\n"
                 "-n64    Disables utilization of base64 in the cipher process.\n"
