@@ -13,7 +13,7 @@ A cryptography tool which implements a new complex mixed substitution cipher dub
 
 ## About
 
-As the name suggests, Gaius Julius Caesar (the Elder) was the father of Julius Caesar, who is often credited with laying the foundation of cryptography in its earliest documented form through his use of the Caesar cipher. While Gaius played a significant role in Julius Caesar's early life, providing him with a patrician lineage and moral guidance, his untimely passing thrust Julius into the position of family head at the age of 16. From this point, Julius began his rise to prominence, eventually becoming one of the most influential figures in Roman history.
+As the name suggests, Gaius Julius Caesar (the Elder) was the father of Julius Caesar, who is often credited with laying the foundation of cryptography in some of its earliest documented forms through his use of the Caesar cipher. While Gaius played a significant role in Julius Caesar's early life, providing him with a patrician lineage and moral guidance, his untimely passing thrust Julius into the position of family head at the age of 16. From this point, Julius began his rise to prominence, eventually becoming one of the most influential figures in Roman history.
 
 Inspired by the renowned **Caesar cipher**, the **"Gaius cipher"** emerged as a sophisticated approach. While the Caesar cipher operates as a simple monoalphabetic substitution cipher, the **"Gaius cipher"** introduces a hybrid approach, blending classical substitution techniques with modern encoding features. Making it both versatile, & fairly secure.
 
